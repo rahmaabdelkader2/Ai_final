@@ -1,5 +1,5 @@
-Team number: (2)
-Members:
+- Team number: (2)
+- Members:
 - Arwa Essam
 - Abdelrahman Yasser
 - Rahma Abdelkader
