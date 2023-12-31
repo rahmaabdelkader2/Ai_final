@@ -1,6 +1,5 @@
 # Team number : (2) <br>
 <hr>
-<hr>
 
 # Team members :
 - Arwa Essam <br>
